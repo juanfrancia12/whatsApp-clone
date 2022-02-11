@@ -7,7 +7,7 @@ module.exports = {
     includePaths: [path.join(__dirname, "styles")],
     // Use the CDN in production and localhost for development.
     assetPrefix: isProd
-      ? "https://cdn.statically.io/gh/NaveenDA/naveenda.github.io/gh-pages/"
+      ? "https://cdn.statically.io/gh/juanfrancia12/juanfrancia12.github.io/gh-pages/"
       : "",
   },
 };
