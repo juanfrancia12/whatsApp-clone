@@ -1,6 +1,6 @@
 {
-  "homepage": "https://juanfrancia12.github.io/whatsApp-clone",
   "name": "clone-whatsapp",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
